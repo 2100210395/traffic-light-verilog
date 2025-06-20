@@ -9,6 +9,7 @@ S1    Hwy = Y Cntry = R
 S2    Hwy = R Cntry = R 
 S3    Hwy=RCntry=G 
 S4    Hwy=RCntry=Y 
+stated diagram:images/state diagram.png
 
 Specifications:
 
